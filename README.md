@@ -1,3 +1,1 @@
-### Hi there 👋
-
-🔭 I’m currently working as a software engineer in fintech industry and i'm also interested in product management , HCI and AI.
+![satriabw GitHub stats](https://github-readme-stats.vercel.app/api?username=satriabw&show_icons=true&bg_color=00000000)
